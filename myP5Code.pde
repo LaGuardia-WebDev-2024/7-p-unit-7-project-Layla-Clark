@@ -63,7 +63,7 @@ triangle(174,262,219,237,174,286);
   //Show x y values when mousepressed
   if(mousePressed){
     showXYPositions();
-    ladybug = random(10,22) ;
+    ladybug = random(10,202) ;
 
     
     }
